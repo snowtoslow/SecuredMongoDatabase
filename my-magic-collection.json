@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "idnp": {
+      "encrypt": {
+        "keyId": "2ee77064-5cc5-45a6-92e1-7de6616134a8",
+        "bsonType": "string",
+        "algorithm": "AEAD_AES_256_CBC_HMAC_SHA_512-Random"
+      }
+    },
+    "email" : {
+      "keyId": "11d58b8a-0c6c-4d69-a0bd-70c6d9befae9",
+      "bsonType": "string",
+      "algorithm": "AEAD_AES_256_CBC_HMAC_SHA_512-Random"
+    }
+  },
+  "bsonType": "object"
+}
+
